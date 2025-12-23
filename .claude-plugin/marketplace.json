@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "convex-dev",
-      "source": ".",
+      "source": "./",
       "description": "Complete Convex development guidelines and best practices based on Chef's production patterns",
       "version": "1.0.0",
       "author": {
